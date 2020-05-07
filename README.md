@@ -1,2 +1,2 @@
 # opencv
-image and video processing
+video processing
